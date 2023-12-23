@@ -1,0 +1,29 @@
+Act 1: Pursuit of Virtue
+[FIGURE_START
+START . . .
+[FIGURE_END
+
+The serene tranquility of the sanctum was abruptly shattered by the resounding clang of armor and the thunderous march of boots echoing down the hallowed halls. 
+Alarmed, you tightened your grip on the dice, 
+the sacred energy within pulsing in response to the imminent threat.
+
+Four imposing soldiers, 
+adorned in the emblem of the empire, 
+stormed into the sanctuary. 
+Their eyes, 
+filled with unwavering loyalty to their tyrannical regime, 
+locked onto you—the embodiment of resistance against their unjust reign.
+[FIGURE_START
+"Seize them! 
+The empire demands your surrender!" 
+[FIGURE_END
+one of the soldiers bellowed, 
+unsheathing a gleaming sword that glinted malevolently in the sanctum's gentle light.
+
+Your resolve hardened as the dice, 
+almost as if guided by an unseen force, 
+glowed with an intense, 
+righteous fervor. 
+You stepped forward, 
+a guardian of virtue and justice, 
+prepared to defend the sanctity of the Paladin's stronghold against the encroaching empire.

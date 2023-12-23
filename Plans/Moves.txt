@@ -1,0 +1,198 @@
+# ============================================================================ #
+# Barbarian
+
+    Melee Attacks:
+    1. **Crushing Blow**
+    - Damage: 1d8
+    - Stamina Cost: 20
+    - Short Description: A mighty swing aimed to crush opponents, dealing significant damage with a moderate stamina cost.
+
+    2. **Whirling Strike**
+    - Damage: 1d12 + 1d6 
+    - Stamina Cost: 30
+    - Short Description: Unleashes a whirlwind attack, hitting multiple enemies with a chance for bonus damage, demanding substantial stamina.
+
+    3. **Savage Cleave**
+    - Damage: 3d12
+    - Stamina Cost: 40
+    - Short Description: Executes a vicious cleaving strike, dealing high damage to a single target at a higher stamina expense.
+
+    Magic Attacks:
+    1. **Thundering Shockwave**
+    - Damage: 4d6 (Thunder damage)
+    - Mana Cost: 50
+    - Short Description: Releases a shockwave of thunderous energy, dealing significant damage to foes at a moderate mana cost.
+
+    2. **Fiery Rampage**
+    - Damage: 3d8 (Fire damage)
+    - Mana Cost: 60
+    - Short Description: Unleashes a furious blaze upon enemies, inflicting fire damage with a considerable mana expense.
+
+    3. **Frostbite Fury**
+    - Damage: 2d10 (Cold damage)
+    - Mana Cost: 70
+    - Short Description: Engulfs enemies in an icy onslaught, causing cold damage at a higher mana cost.
+
+    4. **Vitality Surge**
+    - Healing: 3d6 (to self or ally)
+    - Mana Cost: 40
+    - Short Description: Infuses vitality into oneself or an ally, restoring health at a moderate mana expense.
+
+# ============================================================================ #
+# Paladin
+
+    Melee Attacks:
+    1. **Smiting Strike**:
+    - Damage: 2d8
+    - Stamina Cost: 20
+    - Short Description: Unleashes a divine-infused strike, dealing significant damage to the target.
+
+    2. **Righteous Blow**:
+    - Damage: 2d10
+    - Stamina Cost: 30
+    - Short Description: Strikes with righteous force, dealing increased damage with a substantial stamina cost.
+
+    3. **Divine Retribution**:
+    - Damage: 3d10
+    - Stamina Cost: 40
+    - Short Description: Calls upon divine power to execute a devastating strike, dealing immense damage with a higher stamina expense.
+
+    Divine Attacks :
+    1. **Holy Smite**:
+    - Damage: 4d8 (holy damage)
+    - Divinity Cost: 50
+    - Short Description: Unleashes a holy-infused attack, dealing significant damage to enemies at a moderate divinity cost.
+
+    2. **Radiant Burst**:
+    - Damage: 4d10 (radiant damage)
+    - Divinity Cost: 60
+    - Short Description: Releases a burst of radiant energy, inflicting radiant damage upon foes with a considerable divinity expense.
+
+    3. **Sanctified Judgment**:
+    - Damage: 5d10 (highest among the three, possibly an area effect)
+    - Divinity Cost: 70
+    - Short Description: Passes divine judgment, causing substantial damage to enemies at a higher divinity cost.
+
+    4. **Divine Heal**:
+    - Healing: 3d8 (to self or ally)
+    - Divinity Cost: 40
+    - Short Description: Channels divine energy to heal oneself or an ally, restoring health at a moderate divinity expense.
+
+# ============================================================================ #
+# Bard
+    Melee Attacks: 
+    1. **Slashing Chord**:
+    - Damage: 2d6
+    - Stamina Cost: 20
+    - Short Description: Strikes with a bardic chord, dealing damage to the target.
+
+    2. **Mesmerizing Melody**:
+    - Damage: 2d8
+    - Stamina Cost: 30
+    - Short Description: Weaves a captivating melody into an attack, dealing increased damage with moderate stamina cost.
+
+    3. **Crescendo Strike**:
+    - Damage: 3d8
+    - Stamina Cost: 40
+    - Short Description: Unleashes a powerful attack with an escalating musical intensity, dealing high damage at a higher stamina expense.
+
+    Mana-based Abilities:
+    1. **Dissonant Echo**:
+    - Damage: 4d6
+    - Mana Cost: 50
+    - Short Description: Sends out a discordant echo, dealing significant damage to the target at a moderate mana cost.
+
+    2. **Harmonic Resonance**:
+    - Damage: 3d10
+    - Mana Cost: 60
+    - Short Description: Creates a harmonic resonance, inflicting substantial damage with a considerable mana expense.
+
+    3. **Resounding Echo**:
+    Damage: 4d10
+    Cost: 30 Stamina & 40 Mana
+    Short Description: Unleashes a resounding echo, causing damage to enemies in an area or with an additional effect using both stamina and mana.
+
+    4. **Healing Harmony**:
+    - Healing: 2d8 
+    - Cost: 40 Stamina & 50 Mana
+    - Short Description: Performs a harmonious melody, heals allies with a combination of stamina and mana.
+
+# ============================================================================ #
+# Astrologer
+
+    Magic Attacks:
+    1. **Cosmic Bolt**:
+    - Damage: 4d6
+    - Mana Cost: 50
+    - Short Description: Unleashes a bolt charged with cosmic energy, dealing significant damage to the target.
+
+    2. **Astral Flare**:
+    - Damage: 3d8
+    - Mana Cost: 60
+    - Short Description: Ignites an astral flare, inflicting substantial damage with a considerable mana expense.
+
+    3. **Ethereal Burst**:
+    - Damage: 5d6
+    - Cost: 60 Mana & 40 Divinity
+    - Short Description: Unleashes a burst of ethereal energy, dealing damage with a blend of mana and divinity.
+
+    Divine Attacks:
+    1. **Celestial Wrath**:
+    - Damage: 2d10 
+    - Divinity Cost: 70
+    - Short Description: Calls upon celestial forces to deliver a wrathful strike, causing divine damage to the target.
+
+    2. **Starfall Blast**:
+    - Damage: 3d10 
+    - Divinity Cost: 80
+    - Short Description: Summons a cascade of starfall, dealing area damage or celestial damage to enemies.
+
+    3. **Divine Eclipse**:
+    - Damage: 4d8 
+    - Cost: 70 Mana & 50 Divinity
+    - Short Description: Creates a divine eclipse, dealing damage with a combination of mana and divinity.
+
+    4. **Stellar Heal**:
+    - Healing: 2d10
+    - Cost: 60 Mana & 50 Divinity
+    - Short Description: Channels stellar energy to heal all allies with a mix of mana and divinity.
+
+# ============================================================================ #
+# TestMob
+
+    Melee Attacks:
+    1. **Slashing Claw**
+    - Damage: 1d8
+    - Stamina Cost: 10
+    - Short Description: Strikes with sharp claws, dealing moderate damage with a low stamina cost.
+
+    2. **Battering Ram**
+    - Damage: 2d6
+    - Stamina Cost: 20
+    - Short Description: Charges forward with brute force, causing higher damage to a single target with a moderate stamina expense.
+
+    3. **Pummeling Smash**
+    - Damage: 1d20
+    - Stamina Cost: 30
+    - Short Description: Delivers a powerful smash, inflicting substantial damage on a target at a higher stamina cost.
+
+    Magic Attacks:
+    1. **Ethereal Blast**
+    - Damage: 3d4 (Force damage)
+    - Mana Cost: 40
+    - Short Description: Unleashes an otherworldly blast, dealing force damage to adversaries at a moderate mana cost.
+
+    2. **Toxic Spit**
+    - Damage: 3d6 (Poison damage)
+    - Mana Cost: 50
+    - Short Description: Spits toxic venom at opponents, causing poison damage with a considerable mana expense.
+
+    3. **Arcane Bolt**
+    - Damage: 4d8 (Arcane damage)
+    - Mana Cost: 60
+    - Short Description: Hurls a bolt of arcane energy, dealing arcane damage with a higher mana cost.
+
+    4. **Regenerative Aura**
+    - Healing: 2d6 (to self or allies)
+    - Mana Cost: 30
+    - Short Description: Emits a healing aura, restoring health to itself or nearby allies at a moderate mana expense.

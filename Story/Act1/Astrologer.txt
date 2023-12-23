@@ -1,0 +1,34 @@
+Act 1: Celestial Chronicles
+[FIGURE_START
+START . . .
+[FIGURE_END
+
+A sudden intrusion disrupts the cosmic tranquility.
+Four soldiers from the empire burst into the sanctum,
+their presence a stark contrast to the serene observatory.
+Their eyes, cold and determined, fixate upon you.
+[FIGURE_START
+"The heretics!" barked the captain, their voice dripping with disdain.
+"You dare defy the empire's decree?
+We'll put an end to your blasphemous practices!"
+[FIGURE_END
+With a swift motion,
+the soldiers encircled you,
+drawing their weapons with an ominous gleam.
+The memories of persecution and loss surged within,
+fueling a determination to defend the sanctity of cosmic knowledge against the empire's intolerance.
+
+The dice,
+pulsating with celestial energy,
+seemed to respond to the impending threat.
+Gripped tightly, they emanate an ethereal glow,
+a beacon of your connection to the stars.
+[FIGURE_START
+"Stand back!" the captain commanded, brandishing a sword.
+"Your fate is sealed, heretic!"
+[FIGURE_END
+The observatory became a battleground,
+The clash between cosmic enlightenment and imperial suppression is imminent.
+With a whispered invocation to the celestial forces,
+you prepared to face the soldiers,
+ready to weave fate's tapestry amidst the chaos of battle.

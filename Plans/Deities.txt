@@ -1,0 +1,38 @@
+# ============================================================================ #
+# Barbarian
+
+Name: Torm, The True
+Alignment: Lawful Good 
+Description:
+Torm is a stalwart deity, embodying unwavering commitment to justice, duty, and righteousness. 
+He champions the cause of protecting the innocent and upholding law and order. 
+Barbarians who follow Torm might focus on defending the weak and fighting against tyranny or injustice, using their rage as a force to protect those in need.
+
+Name: The Wild Huntress, Eirlys
+Alignment: True Neutral
+Description:
+Eirlys is a deity connected to nature's balance. 
+She represents the cycle of life and death, neither promoting nor opposing civilization. 
+Barbarians who revere Eirlys might see themselves as agents of this balance, understanding that their rage and ferocity are natural aspects of existence, neither inherently good nor evil.
+
+Name: Gruumsh, The One-Eyed God
+Alignment: Chaotic Evil 
+Description:
+Gruumsh embodies chaos, destruction, and domination. 
+He revels in savagery, encouraging his followers to conquer and assert dominance over others. 
+Barbarians devoted to Gruumsh might embrace their rage as a means to sow chaos, spread fear, and dominate those they perceive as weaker.
+
+
+# ============================================================================ #
+# Paladin
+
+Name: 
+Alignment: True Neutral
+Description:
+asdasdadasdad
+
+# ============================================================================ #
+# Bard
+
+# ============================================================================ #
+# Astrologer

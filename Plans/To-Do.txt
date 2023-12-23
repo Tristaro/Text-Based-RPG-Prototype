@@ -1,0 +1,15 @@
+1. Make Paladin have buff depending on chosen Deity 
+2. Add buffs through palading and bard.
+3. Add Debuffs through Barbarian and Astrologer
+4. Create More Enemy Types through a new interface
+5. Add "blood" meter that will add up after each melee attack and have a chance to "dull" attack
+6. Add Accuracy stat for magic attacks
+7. Add dnd stats
+
+
+7. Story/Adventure 
+8. Boss Fight 
+9. Character Chooser Selection
+10. Diety selection
+11. Make other character act by themselves if not chosen
+12. TBD

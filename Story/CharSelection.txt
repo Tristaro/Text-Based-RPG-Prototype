@@ -1,0 +1,45 @@
+As the figure welcomed me into the game of "Fate", 
+an unspoken understanding settled between us...
+[FIGURE_START
+In this realm, 
+[FIGURE_END 
+the figure intoned, 
+[FIGURE_START
+Your choices sculpt the tapestry of destiny itself...
+The dice have marked your path, yet your role remains unclaimed.
+[FIGURE_END
+Intrigued, I sought guidance... 
+[MY_START
+What roles await within this intricate dance of Fate?
+[MY_END]
+The figure's eyes gleamed with ancient knowledge... 
+[FIGURE_START
+Four paths lay before you, each embodying a facet of destiny's design...
+A Barbarian, wielding raw strength and unyielding will; 
+A Paladin, a paragon of honor and righteousness; 
+A Bard, weaving tales and melodies that shape reality; 
+An Astrologer, attuned to cosmic forces and wielding the power of the stars.”
+[FIGURE_END
+Sensing my uncertainty, the figure continued... 
+[FIGURE_START
+Choose wisely, for within these roles lie the threads of your journey...
+The dice have spoken, 
+but it is you who must embrace the role they've unveiled.
+[FIGURE_END
+A silent moment passed as the weight of this decision settled upon me... 
+Each role whispered promises of adventure and purpose...
+[MY_START
+May I ask for guidance in this choice? 
+[MY_END
+I inquired, seeking clarity amid the enigmatic possibilities.
+The figure's gaze softened with understanding... 
+[FIGURE_START
+Your path is yours to define... 
+Listen to the echoes within, and let the echoes of the dice guide your intuition.
+[FIGURE_END
+With a nod of gratitude, 
+I turned to the ancient stone table, 
+the dice resting quietly upon its surface... 
+The figures surrounding me observed in silence, 
+their masked faces holding a quiet anticipation as I reached for the dice once more,
+ready to embrace the role foretold by Fate.
